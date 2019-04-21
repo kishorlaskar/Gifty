@@ -1,0 +1,14 @@
+.wrapper{
+    width: 90%;
+    height: auto;
+    margin: auto;
+}
+
+.row {
+    height: 30px;
+    
+}
+.row:after{
+    clear: both;
+    display: block;
+}
